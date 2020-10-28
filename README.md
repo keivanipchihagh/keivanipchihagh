@@ -19,7 +19,7 @@
 
 <br />
 
-Hi, I'm Keivan Ipchi, a Full Stack Developer & Software Engineer in Amirkabir University of Technology. I love writing code & playing games (Minecraft | Arma3).
+Hi, I'm Keivan Ipchi, a Full Stack Developer & Software Engineer in Amirkabir University of Technology and also a gamer.
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
