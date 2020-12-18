@@ -19,15 +19,15 @@
 
 <br />
 
-Hi, I'm Keivan Ipchi, a Full Stack Developer & Software Engineer in Amirkabir University of Technology and also a gamer.
+Hello there! Sup?
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-**Talking about Personal Stuffs:**
+**What Am I Working On Currently?**
 
-- 👨🏽‍💻 I'm currently trying to learn Machine Learning;
-- 🌱 I'm currently working on something cool, though in private;
-- 💬 Ask me about anything, I am happy to help;
+- 👨🏽‍💻 Trying to figure out how Machine Learning works 😎
+- 🌱 Learning German! ***Wie Geht's?***
+- 📕📗📘📒 Read Books, lot's of Books
 
 **Languages and Tools:**  
 
