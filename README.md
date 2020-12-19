@@ -1,4 +1,4 @@
-### Howdy! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Howdy 👋! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://discord.com/channels/Keivan#1355">
   <img align="left" alt="Keivan Ipchi Hagh | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
@@ -16,15 +16,15 @@
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=keivanipchihagh.keivanipchihagh)
+[![Github](https://img.shields.io/github/followers/keivanipchihagh?label=Follow&style=social)](https://github.com/keivanipchihagh)
 
 <br />
 
-Hello there! Sup?
-
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-**What Am I Working On Currently?**
+**Briefly...**
 
+- 🖥🌎 Open Source contributer
 - 👨🏽‍💻 Trying to figure out how Machine Learning works 😎
 - 🌱 Learning German! ***Wie Geht's?***
 - 📕📗📘📒 Read Books, lot's of Books
