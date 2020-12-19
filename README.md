@@ -25,7 +25,7 @@
 **Briefly...**
 
 - 🖥🌎 Open Source contributer
-- 👨🏽‍💻 Trying to figure out how Machine Learning works 😎
+- 👨🏽‍💻 Machine Learning enthusiast 😎
 - 🌱 Learning German! ***Wie Geht's?***
 - 📕📗📘📒 Read Books, lot's of Books
 
