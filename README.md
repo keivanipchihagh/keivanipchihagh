@@ -26,8 +26,6 @@
 
 - 🖥🌎 Open Source contributer
 - 👨🏽‍💻 Machine Learning enthusiast 😎
-- 🌱 Learning German! ***Wie Geht's?***
-- 📕📗📘📒 Read Books, lot's of Books
 
 **Languages and Tools:**  
 
