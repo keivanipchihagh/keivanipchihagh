@@ -4,12 +4,12 @@
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=keivanipchihagh&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=blue"/>
 <img alt="Last Commit" src="https://img.shields.io/github/last-commit/keivanipchihagh/keivanipchihagh?logo=markdown&label=LAST+UPDATE&color=blue&style=flat">
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-- 👨‍💻 Currently working on web development technologies JavaScript, React, CSS etc.
+- 💡 Currently working on a few Kaggle competitions
 - 📚 Learning everything Data Science, Machine Learning, ... 
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ Fun fact: I love to play pool and snooker 🎱.
+- 🎮 True gamer, ArmA it is
+- 💬 Feel free to reach out, happy to help
 
-## 🛠️ Languages and Tools
+## 🛠️ Languages & Tools
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
 ![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
@@ -24,7 +24,7 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Eclipse](http://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=ffffff)
 
-## Stats & Analysis
+## ⚙️ GitHub Analytics
 <p align="center">
   <a href="https://github.com/AVS1508">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=keivanipchihagh&theme=algolia&show_icons=true&layout=compact" />
