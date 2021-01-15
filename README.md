@@ -14,9 +14,12 @@
 
 ## Stats & Analysis
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=keivanipchihagh&show_icons=true&theme=algolia&layout=compact" alt="keivanipchihagh" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=keivanipchihagh&layout=compact&langs_count=8&theme=algolia"/>
+  <a href="https://github.com/AVS1508">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=keivanipchihagh&theme=algolia&show_icons=true&layout=compact" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=keivanipchihagh&layout=compact&langs_count=8&theme=algolia" />
+  </a>
 </p>
+
 
 ## 🤝 Reach Out
 <p id="socialIcons" align="center">
@@ -28,4 +31,6 @@
         <img src="https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white" /></a>
     <a href="https://www.instagram.com/k1_ipchi/" alt="Instagram">
         <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+    <a href="https://twitter.com/KeivanIpchi" alt="Instagram">
+        <img src="https://img.shields.io/badge/-twitter-blue?style=flat-square&logo=twitter&logoColor=white" /></a>
 </p>
