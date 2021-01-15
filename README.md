@@ -43,6 +43,8 @@
         <img src="https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white" /></a>
     <a href="https://www.instagram.com/k1_ipchi/" alt="Instagram">
         <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
-    <a href="https://twitter.com/KeivanIpchi" alt="Instagram">
+    <a href="https://twitter.com/KeivanIpchi" alt="Twitter">
         <img src="https://img.shields.io/badge/-twitter-blue?style=flat-square&logo=twitter&logoColor=white" /></a>
+    <a href="https://gitlab.com/keivanipchihagh" alt="Gitlab">
+        <img src="https://img.shields.io/badge/-gitlab-yellow?style=flat-square&logo=Gitlab&logoColor=white" /></a>
 </p>
