@@ -23,6 +23,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Eclipse](http://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=ffffff)
+![Tensorflow](https://img.shields.io/badge/-Tensorflow-181717?style=flat-square&logo=tensorflow&logoColor=ffffff)
+![Keras](https://img.shields.io/badge/-Keras-%23F05032?style=flat-square&logo=keras&logoColor=ffffff)
 
 ## ⚙️ GitHub Analytics
 <p align="center">
