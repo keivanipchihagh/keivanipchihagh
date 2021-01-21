@@ -4,9 +4,9 @@
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=keivanipchihagh&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=blue"/>
 <img alt="Last Commit" src="https://img.shields.io/github/last-commit/keivanipchihagh/keivanipchihagh?logo=markdown&label=LAST+UPDATE&color=blue&style=flat">
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-- 💡 Currently working on a few Kaggle competitions
+- ❤ Python + CSharp
 - 📚 Learning everything Data Science, Machine Learning, ... 
-- 🎮 True gamer, ArmA it is
+- 💡 Machine Learning enthusiast
 - 💬 Feel free to reach out, happy to help
 
 ## 🛠️ Languages & Tools
