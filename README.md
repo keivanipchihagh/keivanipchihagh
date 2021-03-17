@@ -1,10 +1,11 @@
 ## 👋 Hello There!
-I am Machine-Learning enthusiast and Python developer, currently studying as Software Engineer at Amirkabir University of Technology. 
-<br/><br/>
+I'm a Machine-Learning enthusiast and a Python developer, currently studying as Software Engineer at Amirkabir University of Technology.
+<br/>
+
 ## 👀 Intrested In: <a href="https://github.com/sponsors/M0nica"><img align="left" width="160" height="160" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="keivan Ipchi Hagh - README Banner"></a>
-- Python + Django
+- Experienced in Front-End (HTML, css, js, jQuery, p5, vue.js) & Back-End (ASP, .NET Core, Django)
 - Open Source
-- Everything about Data Science, Machine Learning, ...
+- Interested in fields of Data Science, Machine Learning ...
 
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-blue.svg?style=flat&logo=github)](https://github.com/keivanipchihagh)
