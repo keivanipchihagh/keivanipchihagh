@@ -2,9 +2,9 @@
 I'm a Machine-Learning enthusiast and a Python developer, currently studying as Software Engineer at Amirkabir University of Technology.
 <br/>
 
-## 👀 Intrested In: <a href="https://github.com/sponsors/M0nica"><img align="left" width="160" height="160" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="keivan Ipchi Hagh - README Banner"></a>
-- Experienced in Front-End (HTML, css, js, jQuery, p5, vue.js) & Back-End (ASP, .NET Core, Django)
-- Open Source
+## 👀 Interested/Experienced in: <a href="https://github.com/sponsors/M0nica"><img align="left" width="160" height="160" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="keivan Ipchi Hagh - README Banner"></a>
+- Experienced in Front-End <i>(Wordpress, Vue.js, jQuery, P5.js, ...)</i> & Back-End <i>(ASP, .NET Core, Django)</i>
+- Open Source Contribution
 - Interested in fields of Data Science, Machine Learning ...
 
 
