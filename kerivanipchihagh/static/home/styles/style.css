@@ -4,4 +4,26 @@
 #header ul li a:hover {
   color: #000 !important; }
 
+#header {
+  border-bottom: 1px solid #b8b8b8; }
+  #header .rainbow-decoration {
+    width: 100%;
+    height: 2px;
+    background-image: -webkit-gradient(linear, left top, right top, from(#f63366), to(#fffd80));
+    background-image: -webkit-linear-gradient(left, #f63366, #fffd80);
+    background-image: linear-gradient(90deg, #f63366, #fffd80); }
+  #header .navbar-nav {
+    position: relative;
+    right: -97%; }
+
+.breadcrumb {
+  font-size: 14px; }
+  .breadcrumb li {
+    border-bottom: 1px solid #b8b8b8; }
+  .breadcrumb a {
+    color: #000;
+    text-decoration: none; }
+  .breadcrumb .active {
+    color: #0d6efd; }
+
 /*# sourceMappingURL=style.css.map */
