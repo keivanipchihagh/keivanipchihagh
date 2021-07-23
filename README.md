@@ -2,7 +2,7 @@
 I'm a Machine-Learning enthusiast and a Python developer, studying as Software Engineer at Amirkabir University of Technology.
 <br/>
 
-## 👀 More About Me: <a href="https://github.com/sponsors/M0nica"><img align="left" width="160" height="160" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="keivan Ipchi Hagh - README Banner"></a>
+## 👀 More About Me:
 - 🖥 Full-Stack developer (Wordpress, Vue.js, jQuery, HTML, Css, JavaScript, ASP, .NET Core, Django)
 - 📚 Learning German!
 - 🛠 Maintaining Lantern-Project, a lightweight web-based chat support api
