@@ -1,14 +1,6 @@
-## 👋 Hello There!
-I'm a Machine-Learning enthusiast and a Python developer, studying as Software Engineer at Amirkabir University of Technology.
-<br/>
+<h2 align="center">Hello There, I'm Keivan!</h2>
+<h3 align="center">Machine Learning Enthusiast and Python Developer</h3>
 
-## 👀 More About Me:
-- 🖥 Full-Stack developer (Wordpress, Vue.js, jQuery, HTML, Css, JavaScript, ASP, .NET Core, Django)
-- 📚 Learning German!
-- 🛠 Maintaining Lantern-Project, a lightweight web-based chat support api
-
-
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-blue.svg?style=flat&logo=github)](https://github.com/keivanipchihagh)
-[![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%99%A1-blue)](https://github.com/keivanipchihagh)
-<img alt="Visitors" src="https://komarev.com/ghpvc/?username=keivanipchihagh&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=blue"/>
-<img alt="Last Commit" src="https://img.shields.io/github/last-commit/keivanipchihagh/keivanipchihagh?logo=markdown&label=LAST+UPDATE&color=blue&style=flat">
+<p align="center">  
+  <img alig src="https://github-profile-trophy.vercel.app/?username=keivanipchihagh&row=1&margin-w=15&no-bg=true" />
+</p>
