@@ -21,18 +21,6 @@
 <p align="center">
 
 [![STATS (THOPHES)](https://github-profile-trophy.vercel.app/?username=keivanipchihagh&theme=nord&margin-w=20&margin-h=15&column=8&row=1)](https://github.com/keivanipchihagh)
-
 </p>
 
-
-<p align="center">
-<br/>
-<a href="https://twitter.com/keivanipchihagh">
-  <img alt="keivanipchihagh | Twitter" width="50px" src="https://user-images.githubusercontent.com/43545812/144034996-602b144a-16e1-41cc-99e7-c6040b20dcaf.png"/>
-<a href="https://www.linkedin.com/in/keivanipchihagh">
-  <img alt="keivanipchihagh's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
-<a href="https://www.instagram.com/keivanipchihagh">
-  <img alt="keivanipchihagh's Instagram" width="50px" src="https://user-images.githubusercontent.com/43545812/144035088-0dfb165f-8fe0-4d13-896c-876c29d2b128.png" />
-<a href="https://open.spotify.com/user/k1_ipchi?si=d227308802a84e1c">
-  <img alt="keivanipchihagh's Spotify" width="50px" src="https://user-images.githubusercontent.com/43545812/144035120-1ad5169b-91c7-4078-bef9-6a82c733f373.png" />
-</p>
+<a href="https://www.buymeacoffee.com/keivanipchihagh"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" height="30px"></a>
