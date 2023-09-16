@@ -24,5 +24,4 @@
 <div align="center">
   
 [![GitHub Streak](https://streak-stats.demolab.com/?user=keivanipchihagh&theme=nordfox)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=keivanipchihagh&theme=nord&show_icons=true&hide_border=True)
 </div>
