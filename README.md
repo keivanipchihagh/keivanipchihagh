@@ -1,27 +1,30 @@
 <img align="left" width=80px height=80px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <img align="right" width=80px height=80px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-<h2 align="center">Hello There, I'm Keivan!</h2>
+<h2 align="center">Hello There 👋 I'm Keivan!</h2>
 
 <div align="center">
 
-![RPs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)
-![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/Email-Send-orange)](mailto:youremail@example.com)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/yourhandle)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Follow-blue)](https://www.kaggle.com/yourusername)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-blue)](https://github.com/yourusername)
+[!["Buy Me A Coffee"](https://img.shields.io/badge/-buy_me_a%C2%A0coffee-gray?logo=buy-me-a-coffee)](https://www.buymeacoffee.com/keivanipchihagh)
 
 </div>
 
 ![](https://github.com/keivanipchihagh/keivanipchihagh/blob/main/header.png)
 
-<h3 align="center">Full-Stack Data Scientist</h3>
-<p align="center">If the rise of an all-powerful artificial intelligence is inevitable, well it stands to reason that when they take power, our digital overlords will punish those of us who did not help them get there. Ergo, I would like to be a helpful idiot (=
-<br/>- Gilfoyle, Silicon Valley</p>
+🌙 I’m a **full-stack data scientist** during the day and a **software engineer** at night.
+
+⚡ My expertise are in **natural language processing**, **computer vision**, and **MLOps**.
+
+🌱 My favorite stack: [Docker](https://www.docker.com/), [Kubernetes](https://kubernetes.io/), [Apache-Airflow](https://airflow.apache.org/), and [Apache-Spark](https://spark.apache.org/).
+
+📃 Find my [resume](https://docs.google.com/document/d/1RHJ3HHgwJoMT71_qpr6nIvwe-GxNzTJjN2guZZNrgUQ/export?format=pdf) or visit my [website](https://www.keivanipchihagh.com/).
 
 <p align="center">
-
+  
 [![STATS (THOPHES)](https://github-profile-trophy.vercel.app/?username=keivanipchihagh&theme=nord&margin-w=20&margin-h=15&column=8&row=1)](https://github.com/keivanipchihagh)
 </p>
-
-<div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=keivanipchihagh&theme=nordfox)](https://git.io/streak-stats)
-</div>
