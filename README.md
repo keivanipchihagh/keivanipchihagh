@@ -1,6 +1,3 @@
-<img align="left" width=80px height=80px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-<img align="right" width=80px height=80px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-
 <h2 align="center">Hello There 👋 I'm Keivan!</h2>
 
 <div align="center">
@@ -14,15 +11,13 @@
 
 </div>
 
-![](https://github.com/keivanipchihagh/keivanipchihagh/blob/main/header.png)
-
-⚒️ I’m a **full-stack data scientist** during the day and a **software engineer** at night.
-
-⚡ My expertise are in **natural language processing**, **computer vision**, and **MLOps**.
-
-🌱 My favorite stack: [Docker](https://www.docker.com/), [Kubernetes](https://kubernetes.io/), [Apache-Airflow](https://airflow.apache.org/), and [Apache-Spark](https://spark.apache.org/).
-
-📃 Download my [resume](https://docs.google.com/document/d/1RHJ3HHgwJoMT71_qpr6nIvwe-GxNzTJjN2guZZNrgUQ/export?format=pdf) or visit my [website](https://www.keivanipchihagh.com/).
+- ⚒️ I’m a **data scientist** during the day and a **software engineer** at night.
+- 🏢 2 years of experience as a **full-stack data scientist** at [BaleMessenger](https://github.com/balemessenger).
+- ⚡ My expertise are in **natural language processing**, **computer vision**, and **MLOps**.
+- 🏫 Lots of teaching assistant experience and some mentorships.
+- 🎓 Former Bachelor's student in Computer Engineering at [Amirkabir University of Technology](https://aut.ac.ir/).
+- 🌱 My favorite stack: [Docker](https://www.docker.com/), [Kubernetes](https://kubernetes.io/), [Apache-Airflow](https://airflow.apache.org/), and [Apache-Spark](https://spark.apache.org/).
+-  📃 Download my [resume](https://docs.google.com/document/d/1RHJ3HHgwJoMT71_qpr6nIvwe-GxNzTJjN2guZZNrgUQ/export?format=pdf) or visit my [website](https://www.keivanipchihagh.com/).
 
 <p align="center">
   
