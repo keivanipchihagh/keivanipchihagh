@@ -16,7 +16,6 @@
 - 🏫 Lots of teaching assistant experience and some mentorships.
 - 🎓 Former Bachelor's student in Computer Engineering at [Amirkabir University of Technology](https://aut.ac.ir/).
 - 🌱 My favorite stack: [Kubernetes](https://kubernetes.io/), [Apache-Airflow](https://airflow.apache.org/), and [Apache-Spark](https://spark.apache.org/).
-- 🥰 Check out my [resume](https://docs.google.com/document/d/1RHJ3HHgwJoMT71_qpr6nIvwe-GxNzTJjN2guZZNrgUQ/export?format=pdf) and visit my [website](https://www.keivanipchihagh.com/).
 
 <p align="center">
   
