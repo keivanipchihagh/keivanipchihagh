@@ -24,22 +24,23 @@ THEMES = {
 }
 
 ABOUT = [
-    ("Role", "AI/ML Engineer"),
+    ("Role", "AI / Software Engineer"),
     ("Studying", "M.Sc. Computer Science, University of Bonn"),
-    ("Experience", "4+ years of ML in production"),
-    ("Looking For", "Working student role in AI/ML, Bonn"),
+    ("Experience", "4+ years building AI systems in production"),
+    ("Looking For", "Working student role, AI or software engineering"),
+    ("Where", "Bonn/Cologne, remote, or anywhere in Germany"),
     None,
     ("Languages.Code", "Python, Go, C/C++, SQL, Java"),
     ("Languages.Human", "Persian, English (C1), German (A2)"),
     None,
-    ("Skills.LLM", "LangGraph, LangSmith, Ragas, RAG"),
+    ("Skills.LLM", "LangGraph, LangSmith, Ragas, RAG, MCP"),
     ("Skills.ML", "PyTorch, TensorFlow, Transformers, RecSys"),
-    ("Skills.Infra", "Docker, Kubernetes, Airflow, FastAPI, PostgreSQL"),
+    ("Skills.Backend", "FastAPI, gRPC, Kafka, Redis, PostgreSQL"),
+    ("Skills.Infra", "Docker, Kubernetes, Airflow, CI/CD"),
 ]
 
 CONTACT = [
     ("Email", "keivanipchihagh@gmail.com"),
-    ("Website", "keivanipchihagh.com"),
     ("LinkedIn", "in/keivanipchihagh"),
     ("Medium", "@keivanipchihagh"),
 ]
