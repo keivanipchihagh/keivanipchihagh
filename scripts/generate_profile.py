@@ -28,7 +28,7 @@ ABOUT = [
     ("Studying", "M.Sc. Computer Science, University of Bonn"),
     ("Experience", "4+ years building AI systems in production"),
     ("Looking For", "Working student role, AI or software engineering"),
-    ("Where", "Bonn/Cologne, remote, or anywhere in Germany"),
+    ("Where", "Bonn/Cologne on-site, hybrid or remote in Germany"),
     None,
     ("Languages.Code", "Python, Go, C/C++, SQL, Java"),
     ("Languages.Human", "Persian, English (C1), German (A2)"),
